@@ -1,0 +1,13 @@
+name = "fort-lang-disc-3372"
+version = "0.1.0"
+license = "cc0"
+author = "matthew macgregor"
+copyright = "Copyright 2022, Matthew MacGregor"
+
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+
+[install]
+library = false
